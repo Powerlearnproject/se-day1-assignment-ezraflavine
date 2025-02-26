@@ -38,6 +38,7 @@ Structure	Sequential	Iterative
 Flexibility	Rigid, changes are difficult	Flexible, adapts to change
 Feedback	Limited until the final stage	Continuous feedback
 Example Use Case	Large-scale projects with clear requirements (e.g., government systems)	Dynamic projects requiring adaptability.
+
 5. What are the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager?
 
 Answer:
@@ -45,12 +46,14 @@ Answer:
 Software Developer: Writes, tests, and maintains code, ensuring functionality and performance.
 Quality Assurance (QA) Engineer: Designs test cases, executes testing, and identifies bugs to ensure software quality.
 Project Manager: Oversees project progress, coordinates teams, manages risks, and ensures deadlines are met.
+
 6. Why are Integrated Development Environments (IDEs) and Version Control Systems (VCS) important in software development? Provide examples.
 
 Answer:
 
 IDEs (e.g., PyCharm, Visual Studio Code) enhance productivity by providing debugging tools, code suggestions, and project management features.
 VCS (e.g., Git, SVN) tracks changes, enables collaboration, and prevents code conflicts in team projects.
+
 7. What are common challenges faced by software engineers, and how can they be overcome?
 
 Answer:
@@ -58,6 +61,7 @@ Answer:
 Debugging complex issues: Use systematic debugging tools and peer code reviews.
 Meeting deadlines: Follow Agile principles, break tasks into manageable sprints.
 Keeping up with new technologies: Engage in continuous learning through courses, forums, and hands-on practice.
+
 8. What are the different types of software testing, and why are they important?
 
 Answer:
@@ -74,7 +78,7 @@ Acceptance Testing: Confirms the software meets end-user needs before deployment
 Answer:
 Prompt engineering involves crafting effective input prompts to optimize responses from AI models. It is essential because well-structured prompts improve accuracy, relevance, and efficiency in AI-generated outputs.
 
-11. Provide an example of a vague prompt and an improved version. Explain why the improved prompt is more effective.
+10. Provide an example of a vague prompt and an improved version. Explain why the improved prompt is more effective.
     
 Answer:
 
